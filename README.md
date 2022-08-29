@@ -6,11 +6,6 @@ Bu repo bir adet README dosyası, bir adet de index.html dosyası içeriyor
 -------------------------------------------------------------
 
 
-
-![]("C:\Users\ogzha\OneDrive\Masaüstü\image.jpeg")
-
-
-
 ## Installation 
 Öncelikle projeyi clonelayın.
 
@@ -40,6 +35,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://www.mit.edu/)
 
-
-
-![]()
