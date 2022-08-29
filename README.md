@@ -1,9 +1,10 @@
 # Kodluyoruz İlk Repo
+
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
 Bu repo bir adet README dosyası, bir adet de index.html dosyası içeriyor
 
--------------------------------------------------------------
+------------------------------------
 
 
 ## Installation 
@@ -19,11 +20,12 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''linux'''
+`cd kodluyoruzilkrepo`
 
-'cd kodluyoruzilkrepo'
+`code . `
 
-'code.'
+
+----------------------------------
 
 ## Contributing
 
