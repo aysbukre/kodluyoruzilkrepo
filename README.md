@@ -6,6 +6,8 @@ Bu repo bir adet README dosyası, bir adet de index.html dosyası içeriyor
 
 ------------------------------------
 
+![](https://github.com/aysbukre/kodluyoruzilkrepo)
+
 
 ## Installation 
 Öncelikle projeyi clonelayın.
